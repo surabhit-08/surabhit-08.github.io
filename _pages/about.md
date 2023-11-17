@@ -15,5 +15,6 @@ I am motivated and passionate about employing engineering techniques for finding
 
 ### 14 - Novemeber - 2023: I gave a 5 minute talk in the UW libraries' research commons along with 5 other amazing grad students from different fields.
 Here is the poster and the [link](https://drive.google.com/drive/folders/1l2VW3FX40f9gUPVhPE06DVjfO7NAN2og) to all of the talks.
-![image](https://github.com/surabhit-08/surabhit-08.github.io/assets/62366465/776d7e4f-4e8a-4db4-823c-700d5b4bc225)
+![image](https://github.com/surabhit-08/surabhit-08.github.io/assets/62366465/4a46efbc-220b-4625-b007-8a9331b6de39)
+
 
